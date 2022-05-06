@@ -118,6 +118,7 @@ word-spacing: 2px;
   margin-right: 1070px;
   margin-top: 75px;
   }
+ 
 #movers .title  .line{
   width: 100%;
   border: 2px solid #f3904f;
@@ -141,7 +142,7 @@ table.pic {
     }
   
   table.pic td {
-  border: 1px solid gray;
+  border: 1px solid black;
   }
   table.pic  h2{
    text-align: center;
