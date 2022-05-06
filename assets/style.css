@@ -107,3 +107,27 @@ word-spacing: 2px;
   position: relative;
   cursor: pointer; 
 }
+
+
+
+
+table.pic {
+  table-layout: fixed;
+  width: 100%;
+  display: table-cell;
+  }
+  table.pic .even img {
+    max-width: 100%;
+    height: auto;
+    width: 200px;
+    }
+  
+  table.pic td {
+  border: 1px solid gray;
+  }
+  table.pic  h2{
+   text-align: center;
+    }
+  
+
+  
