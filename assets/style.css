@@ -147,6 +147,55 @@ table.pic {
   table.pic  h2{
    text-align: center;
     }
-  
+  /*-----footer-----*/
+
+.footer {
+background-color: black;
+opacity: 0.9;
+}
+
+.footer .credit {
+  text-align: left;
+  margin-top: 4.5rem;
+  padding: 1rem;
+  padding-top: 2.5rem;
+  font-size: 2rem;
+  color: #fff;
+}
+span{
+  color: #FAFF00;
+}
+
+
+.footer .box-container {
+  display: -ms-grid;
+  display: flex;
+  justify-content:space-between;
+  padding: 12px;
+}
+
+.footer .box-container .box h3 {
+  font-size:  15px;
+  padding: 1.8px;
+  color: white;
+}
+
+.footer .box-container .box a {
+  display: block;
+  font-size: 0.8rem;
+  color: #fff;
+  text-decoration: none;
+}
+
+.footer .box-container .box a i {
+  color: white
+ 
+}
+
+
+
+
+
+
 
   
