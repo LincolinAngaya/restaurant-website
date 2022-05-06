@@ -81,10 +81,10 @@ word-spacing: 2px;
  
 }
 #head-2 .head .content .line{
- width: 50%;
+ width: 40%;
  margin-left: 12px;
  margin-right: auto;
- border: 5px solid #f3904f;
+ border: 2px solid #f3904f;
  
 }
 
@@ -110,18 +110,18 @@ word-spacing: 2px;
 
 /*----section 3---*/
 #movers{
-  margin-top: 45px;
+  height: 90vh;
+  background-color: silver;
 }
-#movers .title  h1{
+#movers .title {
   margin-left: 100px;
-   
-  }
-#movers .title  .line{
-  width: 20%;
   margin-right: 1070px;
   margin-top: 75px;
-  border: 5px solid #f3904f;
-  
+  }
+#movers .title  .line{
+  width: 100%;
+  border: 2px solid #f3904f;
+
  }
  #movers .title  h1{
  font-size: 45px;
