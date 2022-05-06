@@ -5,7 +5,7 @@
 }
 /*-----head section------*/
 #header{
-background-color: blueviolet;
+background-color: black;
   height:40vh;
   justify-content: center;
   align-items: center;
@@ -78,4 +78,62 @@ background-color: blueviolet;
        font-weight: lighter;
       
       } 
+   /*-----footer-----*/
+
+.footer {
+  background-color: black;
+  opacity: 0.9;
+  }
+  hr{
+  
+  margin-left: 12px;
+  margin-right: auto;
+  margin-top:50px ;
+  color: dark;
+  }
+  .footer .credit {
+    text-align: left;
+    margin-top: 4.5rem;
+    padding: 1rem;
+    padding-top: 2.5rem;
+    font-size: 2rem;
+    color: #fff;
+  }
+  span{
+    color: #FAFF00;
+  }
+  
+  
+  .footer .box-container {
+    display: -ms-grid;
+    display: flex;
+    justify-content:space-around;
+    padding: 72px;
+  }
+  
+  .footer .box-container .box h3 {
+    font-size:  15px;
+    padding: 1.8px;
+    color: white;
+  }
+  
+  .footer .box-container .box a {
+    display: block;
+    font-size: 0.8rem;
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  .footer .box-container .box a i {
+    color: white;
+    padding: 15px;
+    font-size: 32px;
+    
    
+  }
+  .footer .box-container #icons {
+    display: flex;
+    margin: 16px;
+    
+  }
+  
