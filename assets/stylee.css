@@ -78,6 +78,47 @@ background-color: black;
        font-weight: lighter;
       
       } 
+    /*----similar listing---*/
+#movers{
+  height: 90vh;
+  background-color: silver;
+}
+#movers .title {
+  margin-left: 100px;
+  margin-right: 1070px;
+  margin-top: 75px;
+  }
+ 
+#movers .title  .line{
+  width: 100%;
+  border: 2px solid #f3904f;
+
+ }
+ #movers .title  h1{
+ font-size: 45px;
+  
+ }
+ 
+
+table.pic {
+  table-layout: fixed;
+  width: 100%;
+  display: table-cell;
+  }
+  table.pic .even img {
+    max-width: 100%;
+    height: auto;
+    width: 200px;
+    }
+  
+  table.pic td {
+  border: 1px solid black;
+  }
+  table.pic  h2{
+   text-align: center;
+    }
+    
+
    /*-----footer-----*/
 
 .footer {
