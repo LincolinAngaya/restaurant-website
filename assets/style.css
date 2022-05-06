@@ -57,6 +57,7 @@ font-weight: lighter;
 font-weight: lighter;
 word-spacing: 2px;
  }
+
  /*----section 2----*/
  #head-2 .head{
   display: flex;
@@ -64,19 +65,45 @@ word-spacing: 2px;
 }
 #head-2 .head .content{
   width: 60%;
- padding-left: 70px;
+ padding-right: 250px;
  margin-top: 120px;
- 
+
 }
 #head-2 .head .image{
  width: 40%;
- padding-left: 30px;
  margin-top: 50px;
  
 }
 #head-2 .head .image img{
  height: 400px;
- width:  600px;
+ width:  400px;
  align-items:left;
  
+}
+#head-2 .head .content .line{
+ width: 50%;
+ margin-left: 12px;
+ margin-right: auto;
+ border: 5px solid #f3904f;
+ 
+}
+
+#head-2 .head .content p{
+  color:darkslategrey;
+  font-size: 22px;
+ 
+}
+#head-2 .head .content h1{
+  font-size: 45px;
+ 
+}
+#head-2 .head .content a{
+  background-color: black;
+  display: inline-block;
+  text-decoration: none;
+  color: #FAFF00;
+  padding: 12px 34px;
+  border-radius: 0px 8.5px 0px 0px;
+  position: relative;
+  cursor: pointer; 
 }
