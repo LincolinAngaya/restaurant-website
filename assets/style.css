@@ -107,6 +107,11 @@ word-spacing: 2px;
   position: relative;
   cursor: pointer; 
 }
+#head-2 .head .content a i{
+  
+  color: #FAFF00;
+  
+}
 
 /*----section 3---*/
 #movers{
@@ -153,7 +158,13 @@ table.pic {
 background-color: black;
 opacity: 0.9;
 }
+hr{
 
+margin-left: 12px;
+margin-right: auto;
+margin-top:50px ;
+border: 2px solid #f3904f;
+}
 .footer .credit {
   text-align: left;
   margin-top: 4.5rem;
@@ -170,8 +181,8 @@ span{
 .footer .box-container {
   display: -ms-grid;
   display: flex;
-  justify-content:space-between;
-  padding: 12px;
+  justify-content:space-around;
+  padding: 72px;
 }
 
 .footer .box-container .box h3 {
@@ -188,8 +199,16 @@ span{
 }
 
 .footer .box-container .box a i {
-  color: white
+  color: white;
+  padding: 15px;
+  font-size: 32px;
+  
  
+}
+.footer .box-container #icons {
+  display: flex;
+  margin: 16px;
+  
 }
 
 
