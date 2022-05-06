@@ -1,3 +1,16 @@
-p{
-  background-color: red;
+*{
+  padding: o;
+  margin: o;
+
+}
+#header{
+  background-image: url(../images/moving\ 1.png);
+  background-image: url("../images/background.jpg");
+  background-size: cover; 
+  background-position: center center;
+  height:60vh;
+  display: flex;
+  align-items: left;
+  justify-content: left;
+  
 }
