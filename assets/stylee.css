@@ -1,0 +1,81 @@
+*{
+  padding: o;
+  margin: o;
+  font-family: Poppins,  Actor, Adamina;
+}
+/*-----head section------*/
+#header{
+background-color: blueviolet;
+  height:40vh;
+  justify-content: center;
+  align-items: center;
+ 
+}
+
+#header nav{
+  justify-content: left;
+  align-items: left;
+  margin-bottom: 170px;
+  margin-left: 300px;
+
+}
+#header nav ul li  {
+  display: inline-block;
+  align-items: left;
+  justify-content: space-between;
+  padding: 30px;
+  list-style: none;
+  text-decoration: none;
+ 
+}
+#header nav ul li a {
+  color: white;
+  text-decoration: none;
+}
+#header nav   .btn{
+  color: black;
+  display: inline-block;
+  text-decoration: none;
+  background-color: #eef10d;
+  padding: 12px 34px;
+  border-radius: 0px 8.5px 0px 0px;
+  position: relative;
+  cursor: pointer; 
+}
+
+  #header .below{
+    display: flex;
+    justify-content: left;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+   #header .below .text{
+     margin-top: -100px;
+     color: white;
+    
+    } 
+    #header .below h1{
+      font-size: 35px;
+     
+     } 
+     #header .below h2{
+      font-size: 15px;
+      font-weight: lighter;
+     
+     } 
+     #header .below .dollar{
+      margin-top: -100px;
+      color: white;
+     
+     } 
+     #header .below .dollar1{
+       font-size: 35px;
+      
+      } 
+      #header .below dollar-2{
+       font-size: 15px;
+       font-weight: lighter;
+      
+      } 
+   
