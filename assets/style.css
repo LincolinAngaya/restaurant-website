@@ -24,7 +24,7 @@
   display: inline-block;
   align-items: center;
   justify-content: space-between;
-  padding: 15px;
+  padding: 25px;
   list-style: none;
 
 }
@@ -163,7 +163,7 @@ hr{
 margin-left: 12px;
 margin-right: auto;
 margin-top:50px ;
-border: 2px solid #f3904f;
+color: dark;
 }
 .footer .credit {
   text-align: left;
