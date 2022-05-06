@@ -1,16 +1,60 @@
 *{
   padding: o;
   margin: o;
-
+  font-family: Poppins,  Actor, Adamina;
 }
+/*-----head section------*/
 #header{
-  background-image: url(../images/moving\ 1.png);
-  background-image: url("../images/background.jpg");
+  background-image: url("./images/moving\ 1.png");
   background-size: cover; 
   background-position: center center;
-  height:60vh;
+  height:70vh;
   display: flex;
-  align-items: left;
-  justify-content: left;
-  
+  justify-content: center;
+  align-items: center;
+ 
 }
+#header nav{
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 300px;
+
+}
+#header nav li{
+  display: inline-block;
+  align-items: center;
+  justify-content: space-between;
+  padding: 15px;
+  list-style: none;
+
+}
+#header nav ul li a {
+  color: white;
+  text-decoration: none;
+  align-items: center;
+}
+
+ .log-1{  
+  background-color: #FAFF00;
+  
+
+}
+.log-2{
+ background-color:black;
+
+}
+#header .text{
+ 
+}
+#header .text h1{
+  color: #FAFF00;
+  font-size: 50px;
+font-weight: lighter;
+ }
+ #header .text h2{
+  color: wheat;
+  font-size: 25px;
+font-weight: lighter;
+word-spacing: 2px;
+ }
+ 
