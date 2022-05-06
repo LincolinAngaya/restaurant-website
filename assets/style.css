@@ -48,7 +48,7 @@
 }
 #header .text h1{
   color: #FAFF00;
-  font-size: 50px;
+  font-size: 43px;
 font-weight: lighter;
  }
  #header .text h2{
@@ -57,4 +57,26 @@ font-weight: lighter;
 font-weight: lighter;
 word-spacing: 2px;
  }
+ /*----section 2----*/
+ #head-2 .head{
+  display: flex;
+  justify-content: space-between;
+}
+#head-2 .head .content{
+  width: 60%;
+ padding-left: 70px;
+ margin-top: 120px;
  
+}
+#head-2 .head .image{
+ width: 40%;
+ padding-left: 30px;
+ margin-top: 50px;
+ 
+}
+#head-2 .head .image img{
+ height: 400px;
+ width:  600px;
+ align-items:left;
+ 
+}
