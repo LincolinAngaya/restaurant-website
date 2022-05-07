@@ -37,7 +37,7 @@ As a user of the application,you will be able to :
 * Open the index file from the zipped file with any browser.
  ****
 ### Live Link
-- Click this link to view the live application https://albert-byrone.github.io/delani/
+- Click this link to view the live application https://lincolinangaya.github.io/restaurant-website/
 ### Technology  Used
 * HTML - which was used to develop the structure of the pages.
 * CSS - which was used to style the User Interface.
