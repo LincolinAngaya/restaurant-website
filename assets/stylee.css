@@ -97,19 +97,17 @@ background-color: black;
         text-align: left;
       }
       /*---main---*/
-      #main .forming image-pic{
-        height: 100px;
-      }
+      
       #main .forming{
         display: flex;
       }
       .form{
+        border: 1px solid black;
         width: 250px;
         height: 380px;
-        background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
         position: absolute;
-        top: -20px;
-        left: 870px;
+        top: 450px;
+        left: 1320px;
         transform: translate(0%,-5%);
         border-radius: 10px;
         padding: 25px;
