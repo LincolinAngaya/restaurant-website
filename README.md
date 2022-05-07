@@ -1,8 +1,6 @@
 # restaurant-website
  ## developed by:
   Lincolin Angaya
-## images
- ![image](./assets/images/)
  ## Table of Content
  - [Description](#description)
  - [Features](#features)
