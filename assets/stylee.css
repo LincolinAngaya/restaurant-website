@@ -36,7 +36,7 @@ background-color: black;
   color: black;
   display: inline-block;
   text-decoration: none;
-  background-color: #eef10d;
+  background-color: #ff7200;
   padding: 12px 34px;
   border-radius: 0px 8.5px 0px 0px;
   position: relative;
@@ -97,6 +97,12 @@ background-color: black;
         text-align: left;
       }
       /*---main---*/
+      #main .forming image-pic{
+        height: 100px;
+      }
+      #main .forming{
+        display: flex;
+      }
       .form{
         width: 250px;
         height: 380px;
@@ -316,7 +322,7 @@ table.pic {
     color: #fff;
   }
   span{
-    color: #FAFF00;
+    color: #ff7200;
   }
   
   
@@ -330,7 +336,7 @@ table.pic {
     color: black;
     display: inline-block;
     text-decoration: none;
-    background-color: #eef10d;
+    background-color: #ff7200;
     padding: 12px 34px;
     border-radius: 0px 8.5px 0px 0px;
     position: relative;

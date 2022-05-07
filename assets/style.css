@@ -35,7 +35,7 @@
 }
 
  .log-1{  
-  background-color: #FAFF00;
+  background-color: #ff7200;
   
 
 }
@@ -46,7 +46,7 @@
 
 
 #header .text h1{
-  color: #FAFF00;
+  color: #ff7200;
   font-size: 43px;
 font-weight: lighter;
  }
@@ -105,7 +105,7 @@ word-spacing: 2px;
   background-color: black;
   display: inline-block;
   text-decoration: none;
-  color: #FAFF00;
+  color: #ff7200;
   padding: 12px 34px;
   border-radius: 0px 8.5px 0px 0px;
   position: relative;
@@ -113,7 +113,7 @@ word-spacing: 2px;
 }
 #head-2 .head .content a i{
   
-  color: #FAFF00;
+  color: #ff7200;
   
 }
 
@@ -178,7 +178,7 @@ color: dark;
   color: #fff;
 }
 span{
-  color: #FAFF00;
+  color: #ff7200;
 }
 
 
