@@ -103,12 +103,12 @@ background-color: black;
       }
       .form{
         background-color: white;
-        
+      
         width: 350px;
         height: 670px;
         position: absolute;
         top: 450px;
-        left: 1320px;
+        left: 920px;
         transform: translate(0%,-5%);
         border-radius: 10px;
         padding: 25px;
@@ -203,6 +203,10 @@ background-color: black;
          width: 100%;
         display: table-cell;
       }
+      #main .image-pic2 img{
+        margin:2px;
+        width:100px;
+      }
       
      /*---- content-table-2*----*/
      #main{
@@ -212,7 +216,7 @@ background-color: black;
     background-color:white;
     width: 30%;
     border-radius: 9px;
-    height: 60vh;
+    height: 90vh;
     margin: 50px 12px;
     text-align: left;
      }
@@ -231,7 +235,7 @@ background-color: black;
   background-color:white;
   width: 30%;
   border-radius: 9px;
-  height: 50vh;
+  height: 70vh;
   margin: 10px 12px;
   text-align: left;
   
