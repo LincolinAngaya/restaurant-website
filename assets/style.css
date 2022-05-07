@@ -63,7 +63,7 @@ word-spacing: 2px;
   justify-content: space-between;
 }
 #head-2 .head .content{
-  width: 60%;
+  width: 50%;
  margin-top: 120px;
  position: relative;
  right: 50px;
@@ -118,7 +118,7 @@ word-spacing: 2px;
 
 /*----section 3---*/
 #movers{
-  height: 60vh;
+  height: 64vh;
   background-color: silver;
 }
 #movers .title {
