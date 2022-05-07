@@ -102,9 +102,10 @@ background-color: black;
         display: flex;
       }
       .form{
+        background-color: white;
         border: 1px solid black;
-        width: 250px;
-        height: 380px;
+        width: 350px;
+        height: 670px;
         position: absolute;
         top: 450px;
         left: 1320px;
@@ -114,52 +115,46 @@ background-color: black;
     }
     
     .form h2{
-        width: 220px;
+      background-color: silver;
+        width: 300px;
         font-family: sans-serif;
         text-align: center;
-        color: #ff7200;
-        font-size: 22px;
-        background-color: #fff;
+        color: black;
+        font-size: 25px;
         border-radius: 10px;
         margin: 2px;
-        padding: 8px;
+        padding: 18px;
     }
     
     .form input{
-        width: 240px;
-        height: 35px;
+        width: 340px;
+        height: 85px;
         background: transparent;
-        border-bottom: 1px solid #ff7200;
-        border-top: none;
-        border-right: none;
-        border-left: none;
-        color: #fff;
-        font-size: 15px;
+        border: 1px solid gray;
+        color:black;
+        border-radius: 7px;
+        font-size: 25px;
         letter-spacing: 1px;
         margin-top: 30px;
-        font-family: sans-serif;
+        align-items: center;
     }
     
-    .form input:focus{
-        outline: none;
-    }
     
-    ::placeholder{
-        color: #fff;
-        font-family: Arial;
-    }
     
     .btnn{
-        width: 240px;
+        width: 330px;
         height: 40px;
-        background: #ff7200;
+        background: black;
         border: none;
-        margin-top: 30px;
+        margin-left: 12px;
+        margin-top: 20px;
         font-size: 18px;
         border-radius: 10px;
         cursor: pointer;
-        color: #fff;
-        transition: 0.4s ease;
+        color:#ff7200;
+        padding: 32px;
+        align-items: center;
+  
     }
     .btnn:hover{
         background: #fff;
@@ -167,7 +162,7 @@ background-color: black;
     }
     .btnn a{
         text-decoration: none;
-        color: #000;
+        color:white;
         font-weight: bold;
     }
     .form .link{
@@ -365,7 +360,7 @@ table.pic {
   
   .footer .box-container .box a i {
     color: white;
-    padding: 15px;
+    padding: 19px;
     font-size: 32px;
     
    
