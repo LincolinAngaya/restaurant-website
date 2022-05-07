@@ -77,7 +77,63 @@ background-color: black;
        font-size: 15px;
        font-weight: lighter;
       
-      } 
+      }
+      /*----tables--*/ 
+     
+      
+      .content-table table {
+        table-layout: fixed;
+        width: 200px;
+        width: 100%;
+        padding: 15px;
+      }
+      
+      
+      th,
+      td {
+        width: 100px;
+        overflow: hidden;
+        text-align: left;
+      }
+      /*----movers---*/
+      #movers .media .movers-pic{
+        display: flex;
+        justify-content: space-between;
+        border-spacing: 50px;
+       padding: 200px;
+       margin-top: -200px;
+      
+      }
+      #movers .media .movers-pic .pictures .even img{
+        
+         width: 100%;
+        display: block;
+        
+      }
+      #movers .media .movers-pic .pictures #odd img{
+      
+       max-height: fit-content;
+      
+        
+      }
+      
+      #movers .media .movers-pic .pictures .pic{
+         border-collapse: collapse;
+         table-layout: fixed;
+         width: 100%;
+        display: table-cell;
+      }
+      
+
+      
+       
+        
+
+
+
+
+
+
     /*----similar listing---*/
 #movers{
   height: 90vh;

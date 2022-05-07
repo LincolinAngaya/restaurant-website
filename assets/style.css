@@ -24,7 +24,7 @@
   display: inline-block;
   align-items: center;
   justify-content: space-between;
-  padding: 25px;
+  padding: 35px;
   list-style: none;
 
 }
@@ -43,9 +43,8 @@
  background-color:black;
 
 }
-#header .text{
- 
-}
+
+
 #header .text h1{
   color: #FAFF00;
   font-size: 43px;
@@ -67,6 +66,10 @@ word-spacing: 2px;
   width: 60%;
  padding-right: 250px;
  margin-top: 120px;
+ position: relative;
+ right: 150px;
+ top: -50px;
+
 
 }
 #head-2 .head .image{
@@ -78,6 +81,7 @@ word-spacing: 2px;
  height: 400px;
  width:  400px;
  align-items:left;
+ margin-left: 20px;
  
 }
 #head-2 .head .content .line{
