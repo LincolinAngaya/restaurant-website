@@ -85,7 +85,7 @@ word-spacing: 2px;
  
 }
 #head-2 .head .content .line{
- width: 40%;
+ width: 10%;
  margin-left: 12px;
  margin-right: auto;
  border: 2px solid #f3904f;
@@ -119,7 +119,7 @@ word-spacing: 2px;
 
 /*----section 3---*/
 #movers{
-  height: 90vh;
+  height: 60vh;
   background-color: silver;
 }
 #movers .title {
@@ -127,7 +127,13 @@ word-spacing: 2px;
   margin-right: 1070px;
   margin-top: 75px;
   }
- 
+  #movers .movers-pic {
+    display: flex;
+    margin: 50px 12px;
+    text-align: left;
+    justify-content: center;
+    justify-content: space-between;
+     }
 #movers .title  .line{
   width: 100%;
   border: 2px solid #f3904f;
@@ -161,6 +167,7 @@ table.pic {
 .footer {
 background-color: black;
 opacity: 0.9;
+margin-top: -75px;
 }
 hr{
 

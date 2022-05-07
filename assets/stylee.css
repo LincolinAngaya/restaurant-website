@@ -103,7 +103,7 @@ background-color: black;
       }
       .form{
         background-color: white;
-        border: 1px solid black;
+        
         width: 350px;
         height: 670px;
         position: absolute;
@@ -209,7 +209,7 @@ background-color: black;
        background-color: silver;
      }
      #main .content-table-2{
-    background-color:red;
+    background-color:white;
     width: 30%;
     border-radius: 9px;
     height: 60vh;
@@ -228,7 +228,7 @@ background-color: black;
            }
  /*---- content-table-3----*/
  #main .content-table-3{
-  background-color:red;
+  background-color:white;
   width: 30%;
   border-radius: 9px;
   height: 50vh;
