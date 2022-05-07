@@ -86,6 +86,7 @@ background-color: black;
         width: 200px;
         width: 100%;
         padding: 15px;
+        background-color: white;
       }
       
       
@@ -125,6 +126,9 @@ background-color: black;
       }
       
      /*---- content-table-2*----*/
+     #main{
+       background-color: silver;
+     }
      #main .content-table-2{
     background-color:red;
     width: 30%;
@@ -169,19 +173,11 @@ background-color: black;
        #main .content-table-3 h2{
         padding: 50px;
          }
-       
-
-      
-       
-        
-
-
-
-
 
 
     /*----similar listing---*/
 #movers{
+  margin-top: -149px;
   height: 90vh;
   background-color: silver;
 }
@@ -192,8 +188,9 @@ background-color: black;
   }
  
 #movers .title  .line{
-  width: 100%;
-  border: 2px solid #f3904f;
+  margin-bottom: 110px;
+  width: 40%;
+  border: 2px solid silver;
 
  }
  #movers .title  h1{
@@ -221,6 +218,7 @@ table.pic {
 .footer {
   background-color: black;
   opacity: 0.9;
+  margin-top: -76px;
   }
   hr{
   
