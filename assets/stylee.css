@@ -124,6 +124,26 @@ background-color: black;
         display: table-cell;
       }
       
+     /*---- content-table-2*----*/
+     #main .content-table-2{
+    background-color:red;
+    width: 30%;
+    border-radius: 9px;
+    height: 60vh;
+    margin: 50px 12px;
+    text-align: left;
+     }
+     #main .content-table-2 h2{
+      padding: 30px;
+       }
+       #main .content-table-2 hr{
+       margin-top:-20px;
+         }
+         #main .content-table-2 p{
+          font-size: 20px;
+          padding: 10px;
+           }
+
 
       
        
