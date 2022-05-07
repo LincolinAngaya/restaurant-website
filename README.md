@@ -63,5 +63,5 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ## Authors Info
-github Profile -[Lincolin Angaya] 
+github Profile -[Lincolin Angaya] https://github.com/LincolinAngaya
 
