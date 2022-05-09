@@ -45,8 +45,9 @@
 }
 
 
+
 #header .text h1{
-  color: #ff7200;
+  color: #FAFF00;
   font-size: 43px;
 font-weight: lighter;
  }
@@ -77,8 +78,7 @@ word-spacing: 2px;
  
 }
 #head-2 .head .image img{
- height: 400px;
- width:  400px;
+ height: 450px;
  align-items:left;
  margin-left: 20px;
  
@@ -87,7 +87,7 @@ word-spacing: 2px;
  width: 10%;
  margin-left: 12px;
  margin-right: auto;
- border: 2px solid #f3904f;
+ border: 2px solid #FAFF00;
  
 }
 
@@ -118,20 +118,39 @@ word-spacing: 2px;
 
 /*----section 3---*/
 #movers{
-  height: 60vh;
   background-color: silver;
 }
 #movers .title {
-  margin-left: 100px;
-  margin-right: 1070px;
+  margin-left: 120px;
+  margin-right: 100px;
   margin-top: 75px;
+  margin-bottom: 100px;
   }
-  #movers .movers-pic {
+  #movers .col-1 {
     display: flex;
-    margin: 50px 12px;
     text-align: left;
     justify-content: center;
-    justify-content: space-between;
+    margin-right: 600px;
+    margin-left: 300px;
+    justify-content: space-evenly;
+     }
+     #movers .col-2{
+       margin-top: 10px;
+      display: flex;
+      text-align: left;
+      justify-content: center;
+      margin-right: 600px;
+      margin-left: 300px;
+      justify-content: space-evenly;
+      
+      
+       }
+  #movers .movers-pic {
+  
+    margin: 30px 8px;
+    text-align: left;
+    justify-content: center;
+  
      }
 #movers .title  .line{
   width: 100%;
@@ -166,10 +185,10 @@ table.pic {
 .footer {
 background-color: black;
 opacity: 0.9;
-margin-top: -75px;
+margin-top: 0;
+
 }
 hr{
-
 margin-left: 12px;
 margin-right: auto;
 margin-top:50px ;
