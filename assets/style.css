@@ -35,7 +35,7 @@
 }
 
  .log-1{  
-  background-color: #ff7200;
+  background-color: #FFAC12;
   
 
 }
@@ -46,7 +46,7 @@
 
 
 #header .text h1{
-  color: #ff7200;
+  color: #FFAC12;
   font-size: 43px;
 font-weight: lighter;
  }
@@ -94,6 +94,7 @@ word-spacing: 2px;
 #head-2 .head .content p{
   color:darkslategrey;
   font-size: 22px;
+  font-family:  'Poppins';
  
 }
 #head-2 .head .content h1{
@@ -104,7 +105,7 @@ word-spacing: 2px;
   background-color: black;
   display: inline-block;
   text-decoration: none;
-  color: #ff7200;
+  color:#FFAC12;
   padding: 12px 34px;
   border-radius: 0px 8.5px 0px 0px;
   position: relative;
@@ -112,7 +113,7 @@ word-spacing: 2px;
 }
 #head-2 .head .content a i{
   
-  color: #ff7200;
+  color: #FFAC12;
   
 }
 
@@ -135,7 +136,7 @@ word-spacing: 2px;
      }
 #movers .title  .line{
   width: 100%;
-  border: 2px solid #f3904f;
+  border: 2px solid #FFAC12;
 
  }
  #movers .title  h1{
@@ -184,7 +185,7 @@ color: dark;
   color: #fff;
 }
 span{
-  color: #ff7200;
+  color: #FFAC12;
 }
 
 
