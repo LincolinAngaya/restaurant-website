@@ -47,11 +47,10 @@
 
 
 #header .text h1{
-
+   font-family:'Adamina';
   color: #FAFF00;
+  font-size: 53px;
 
-  font-size: 43px;
-font-weight: lighter;
  }
  #header .text h2{
   color: wheat;
@@ -66,11 +65,10 @@ word-spacing: 2px;
   justify-content: space-between;
 }
 #head-2 .head .content{
-  width: 50%;
+  width: 80%;
  margin-top: 120px;
  position: relative;
  top: -50px;
-
 
 }
 #head-2 .head .image{
@@ -96,6 +94,7 @@ word-spacing: 2px;
   color:darkslategrey;
   font-size: 22px;
   font-family:  'Poppins';
+  padding: 12px;
  
 }
 #head-2 .head .content h1{
