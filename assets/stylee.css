@@ -217,8 +217,9 @@ background-color: black;
     background-color:white;
     width: 40%;
     border-radius: 9px;
-    margin: 50px 12px;
-    text-align: left;
+    margin: 45px 10px;
+    text-align: center;
+    height: auto;
      }
      #main .content-table-2 h2{
       padding: 30px;
@@ -235,15 +236,14 @@ background-color: black;
   background-color:white;
   width: 40%;
   border-radius: 9px;
-  /* margin: 10px 12px; */
-  text-align: left;
-
+  margin: 45px 10px;
+  text-align: center;
+  height: auto;
   
   
    }
    #main .content-table-3 .list {
     display: flex;
-    margin: 50px 12px;
     text-align: left;
      }
      #main .content-table-3 .list ul li{
