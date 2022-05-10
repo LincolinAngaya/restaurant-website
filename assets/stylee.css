@@ -215,7 +215,7 @@ background-color: black;
      }
      #main .content-table-2{
     background-color:white;
-    width: 30%;
+    width: 40%;
     border-radius: 9px;
     margin: 50px 12px;
     text-align: left;
@@ -233,10 +233,11 @@ background-color: black;
  /*---- content-table-3----*/
  #main .content-table-3{
   background-color:white;
-  width: 30%;
+  width: 40%;
   border-radius: 9px;
-  margin: 10px 12px;
+  /* margin: 10px 12px; */
   text-align: left;
+
   
   
    }
@@ -249,11 +250,16 @@ background-color: black;
       list-style: none;
       padding: 9px;
        }
+       #main .content-table-3 .list ul li i{
+        color: yellow;
+        padding: 9px;
+         }
      #main .content-table-3 hr{
      margin-top:0px;
        }
        #main .content-table-3 h2{
         padding: 50px;
+        font-size: 25px;
          }
 
 
