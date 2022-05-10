@@ -215,10 +215,10 @@ background-color: black;
      }
      #main .content-table-2{
     background-color:white;
-    width: 40%;
+    width: 45%;
     border-radius: 9px;
     margin: 45px 10px;
-    text-align: center;
+    text-align: left;
     height: auto;
      }
      #main .content-table-2 h2{
@@ -234,7 +234,7 @@ background-color: black;
  /*---- content-table-3----*/
  #main .content-table-3{
   background-color:white;
-  width: 40%;
+  width: 45%;
   border-radius: 9px;
   margin: 45px 10px;
   text-align: center;
